@@ -1,0 +1,38 @@
+Euclidean Linde Buzo
+99 1
+6 94
+
+TPR = 99%
+FPR = 1%
+Accuracy = 97.5%
+Specificity = 94% 
+
+
+Euclidean 2 means
+99 1
+6 94
+
+TPR = 99%
+FPR = 1%
+Accuracy = 97.5%
+Specificity = 94% 
+
+
+Mahalanobis linde
+98 2
+4 96
+
+TPR = 98%
+FPR = 2%
+Accuracy = 97%
+Specificity = 96% 
+
+
+Mahalanobis 2 means
+98 2
+4 96
+
+TPR = 98%
+FPR = 2%
+Accuracy = 97%
+Specificity = 96% 
